@@ -1,8 +1,6 @@
 ## Hi! I'm Hannah 👋
 
-I’m a **Full-stack Developer** still exploring various programming languages and frameworks, and currently I’m diving into **Flutter**. Personal small projects and designing beautiful practice UIs are some of what I do in my free time.
-
-I like romanticism art. I believe aliens exist and that I will always be learning ^ v ^
+I’m a **Full-stack Developer** still exploring various programming languages and frameworks, and currently I’m diving into **Flutter**.
 
 ### Facts about me 👩🏻‍💼 
 
