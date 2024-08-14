@@ -12,4 +12,4 @@ I’m a **Full-stack Developer** still exploring various programming languages a
 ### Current project 🚀
 
 I'm working on...\
-[**Rx Pro**](https://github.com/hijacque/Rx-Pro), a cross-platform application for doctors to digitally prescribed and manage their patients’ information. Compatible with Android, iOS, MacOS, and Windows. Enables doctors to create prescriptions to be saved as a PDF file and/or printed. Other features include: formatted medical forms such as, laboratory request form and medical certificate.
+[**Rx Pro**](https://github.com/hijacque/Rx-Pro), a cross-platform application for doctors to digitally prescribe and manage their patients’ information. Compatible with Android, iOS, MacOS, and Windows. Enables doctors to create prescriptions into PDF files that can be saved and/or printed. Other features include: formatted medical forms including laboratory request form, medical certificate, Referral form, and Clearance form.
